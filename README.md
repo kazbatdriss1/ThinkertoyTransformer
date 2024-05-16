@@ -29,7 +29,7 @@ If the content of `thinkertoy.txt` is:
       
 
 
-The content of resul.txt will be:
+The content of result.txt will be:
 
 
       
